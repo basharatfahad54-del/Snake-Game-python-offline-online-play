@@ -2,6 +2,10 @@
 
 A polished Snake game built entirely with Python's standard library and Tkinter. No third-party packages or assets are required.
 
+<p align="center">
+  <img src="assets/snake-game.png" alt="Snake game gameplay" width="420">
+</p>
+
 ## Run
 
 ```bash
